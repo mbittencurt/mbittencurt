@@ -1,17 +1,3 @@
-<h1 align="center">"Hello Word!!"</h1>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
-
 ###
 
 <div align="center">
@@ -26,40 +12,46 @@
   </a>
 </div>
 
-###
+---
+
+## 👋 Olá, eu sou o Marcus
+
+Hoje estou focado em construir soluções práticas, bem estruturadas e com código limpo.
+
+Atualmente estudo e desenvolvo projetos com foco em **Backend com Go**, além de **Frontend com HTML, CSS e JavaScript**.
+
+---
+
+## 🚀 O que estou fazendo agora
+
+- 🧠 Construindo **APIs REST** e projetos práticos em Go
+- 💻 Aprimorando fundamentos de **Frontend** e aplicando conhecimento em JavaScript para Desenvolvimente Web
+- 🎯 Buscando sempre me tornar melhor como desenvolvedor um dia após o outro.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+- **Linguagens:** Go, JavaScript  
+- **Frontend:** HTML5, CSS3  
+- **Backend:** Go (APIs REST)  
+- **Conceitos:** HTTP, JSON, Clean Code, Git & GitHub  
+
+---
+
+## 📌 Objetivo
+
+Criar projetos bem documentados, com código simples, legível e focado em resolver problemas reais — evoluindo constantemente como desenvolvedor.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mbittencurt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mbittencurt&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcusbittencurt&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusbittencurt&layout=compact&theme=default&hide_border=true" height="150" />
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbittencurt/mbittencurt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbittencurt/mbittencurt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mbittencurt/mbittencurt/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbittencurt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbittencurt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+⭐️ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.*
