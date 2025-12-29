@@ -10,6 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
 </div>
 
+-----------
+
 <div align="center">
   <a href="https://www.linkedin.com/in/marcusbittencurt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -58,10 +60,17 @@ Criar projetos bem documentados, com código simples, legível e focado em resol
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mabittencurt&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabittencurt&layout=compact&theme=default&hide_border=true" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mbittencurt&show_icons=true&theme=dracula&hide_border=true"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbittencurt&layout=compact&theme=dracula&hide_border=true"
+    height="150"
+    alt="Top languages"
+  />
 </div>
-
 ---
 
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.*
