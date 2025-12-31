@@ -45,7 +45,7 @@ Atualmente estudo e desenvolvo projetos com foco em **Backend com Go**, além de
 ## 🧰 Tecnologias & Ferramentas
 
 - **Linguagens:** Go, JavaScript  
-- **Frontend:** HTML5, CSS3  
+- **Frontend:** HTML5, CSS3  , JavaScript
 - **Backend:** Go (APIs REST)  
 - **Conceitos:** HTTP, JSON, Clean Code, Git & GitHub  
 
