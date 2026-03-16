@@ -1,13 +1,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwindcss logo" />
 </div>
 
 -----------
@@ -30,30 +34,33 @@
 
 Hoje estou focado em construir soluções práticas, bem estruturadas e com código limpo.
 
-Atualmente estudo e desenvolvo projetos com foco em **Backend com Go**, além de **Frontend com HTML, CSS e JavaScript**.
+Atualmente estudo e desenvolvo projetos com foco em JavaScript, ReactJS, TypeScript, TailwindCSS.
 
 ---
 
 ## 🚀 O que estou fazendo agora
 
-- 🧠 Construindo **APIs REST** e projetos práticos em Go
-- 💻 Aprimorando fundamentos de **Frontend** e aplicando conhecimento em JavaScript para Desenvolvimente Web
-- 🎯 Buscando sempre me tornar melhor como desenvolvedor um dia após o outro.
+- 💻 Estudando **JavaScript** e fundamentos de **Frontend Development**
+- ⚛️ Aprendendo e praticando **React**, **TypeScript** e **TailwindCSS**
+- 🛠️ Participando de projetos práticos e colaborações em **projetos Full Stack**
+- 🎯 Trabalhando para conseguir minha **primeira oportunidade como desenvolvedor**
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-- **Linguagens:** Go, JavaScript  
-- **Frontend:** HTML5, CSS3  , JavaScript
-- **Backend:** Go (APIs REST)  
-- **Conceitos:** HTTP, JSON, Clean Code, Git & GitHub  
+- **Linguagens:** JavaScript, TypeScript  
+- **Frontend:** React, TailwindCSS, HTML5, CSS3  
+- **Backend:** Node.js (em aprendizado)  
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Conceitos:** HTTP, APIs REST, JSON, Clean Code  
 
 ---
 
 ## 📌 Objetivo
 
-Criar projetos bem documentados, com código simples, legível e focado em resolver problemas reais — evoluindo constantemente como desenvolvedor.
+Construir projetos práticos bem estruturados, com código limpo e boas práticas, enquanto evoluo constantemente como desenvolvedor e me preparo para minha primeira oportunidade profissional na área.
+
 
 ---
 
